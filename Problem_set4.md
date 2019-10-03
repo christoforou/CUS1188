@@ -6,7 +6,7 @@
 ### Divide and Conquer - Merge Sort.
 
 1. Use merge-sort to sort the following list. Show the actions step by step; and give tree of recursive calls of the algorithm.
-  $$123, 34, 189, 56,  150, 12 9, 240 $$
+  $$ 123, 34, 189, 56,  150, 12 9, 240 $$
 
 2. Write an algorithm that sorts a list of n items by dividing it into three sublists of about n/3 items, sorting each sublist recursively and merging the three sorted sublists. You can use any programming language you like.
 
